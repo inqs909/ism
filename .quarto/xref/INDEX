@@ -1,0 +1,65 @@
+{
+  "index.qmd": {
+    "index.html": "794897fd"
+  },
+  "intro.qmd": {
+    "intro.html": "8bcd1b9a"
+  },
+  "var.qmd": {
+    "var.html": "5b65673e"
+  },
+  "dgp.qmd": {
+    "dgp.html": "dce30160"
+  },
+  "cat.qmd": {
+    "cat.html": "8cb0d8db"
+  },
+  "num.qmd": {
+    "num.html": "822b3cb5"
+  },
+  "dist.qmd": {
+    "dist.html": "952cc736"
+  },
+  "lm.qmd": {
+    "lm.html": "06dc3621"
+  },
+  "slr.qmd": {
+    "slr.html": "86a4d04c"
+  },
+  "mlr.qmd": {
+    "mlr.html": "eaf781f4"
+  },
+  "logistic.qmd": {
+    "logistic.html": "eb9b458d"
+  },
+  "poisson.qmd": {
+    "poisson.html": "11293fe5"
+  },
+  "decision.qmd": {
+    "decision.html": "d82e0913"
+  },
+  "sampling.qmd": {
+    "sampling.html": "fdc0efd8"
+  },
+  "inf.qmd": {
+    "inf.html": "ec7ec3fd"
+  },
+  "inf_lr.qmd": {
+    "inf_lr.html": "77599283"
+  },
+  "inf_glm.qmd": {
+    "inf_glm.html": "a4bbae9f"
+  },
+  "references.qmd": {
+    "references.html": "cca3199a"
+  },
+  "traditional.qmd": {
+    "traditional.html": "2c326ddf"
+  },
+  "r_basics.qmd": {
+    "r_basics.html": "af8db2da"
+  },
+  "csucistats.qmd": {
+    "csucistats.html": "df788822"
+  }
+}
