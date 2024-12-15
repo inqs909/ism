@@ -5,6 +5,7 @@ project:
 book:
   title: "Intro to Statistical Models"
   author: "Isaac Quintanilla Salinas"
+  downloads: [pdf]
   date: "12/14/2024"
   chapters:
     - index.qmd
